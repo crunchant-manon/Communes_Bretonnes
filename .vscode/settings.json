@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "class",
+    "java.project.referencedLibraries": [
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.base.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.controls.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.fxml.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.graphics.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.media.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.swing.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx.web.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\javafx-swt.jar",
+        "c:\\LocalApps\\JavaFX\\lib\\mysql-connector-j-8.4.0.jar"
+    ]
+}

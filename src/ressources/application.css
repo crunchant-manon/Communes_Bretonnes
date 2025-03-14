@@ -1,0 +1,262 @@
+.my-button {
+    -fx-background-color: #4772a2;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -50%;
+    -fx-translate-y: -50%;
+    -fx-cursor: hand;
+}
+
+.my-button:hover {
+    -fx-background-color: #355274;
+    -fx-text-fill: white;
+}
+
+.my-label-ins {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.my-label-con {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.my-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+}
+
+.my-label-error {
+    -fx-font-size: 16px;
+    -fx-text-fill: #ff0000;
+}
+
+/**Label page contact*/
+.my-label-contact {
+    -fx-font-size : 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill : #ffffff;
+}
+/**Text pour email dans contact*/
+.my-field-email-contact {
+    -fx-font-sixe :20px;
+    -fx-text-fill : #ffffff;
+    -fx-background-color: #8f8e8e48;
+    -fx-background-radius: 20px;
+    -fx-padding: 10px 20px;
+}
+
+/**Texte pour message dans contact*/
+.my-area-message-contact{
+    -fx-font-size: 15px;
+    -fx-text-fill : #000000;
+    -fx-background-color: #8f8e8e48;
+    -fx-background-radius: 15px;
+    -fx-padding: 10px 20px;
+}
+
+.my-field-user-con {
+    -fx-font-size: 14px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #8f8e8e48;
+    -fx-background-radius: 15px;
+    -fx-padding: 10px 20px;
+}
+
+.my-field-user-con:placeholder {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 12px;
+}
+
+/**Bouton de la nave barre*/
+.my-button-nav-barre {
+    -fx-background-color: #4772a2;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-padding: 20px 30px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -6000%;
+    -fx-translate-y: 3000%;
+    -fx-cursor: hand;
+    -fx-margin: 10px 20px; /* Add horizontal margin */
+}
+
+.my-button-nav-barre:hover {
+    -fx-background-color: #355274;
+    -fx-text-fill: white;
+}
+/**Bouton pour l'administrateur pour les gestion de compte*/
+.my-button-liste {
+    -fx-background-color: #bba819;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -50%;
+    -fx-translate-y: -50%;
+    -fx-cursor: hand;
+    -fx-margin: 10px 20px; /* Add horizontal margin */
+
+}
+
+/** Bouton liste du compte administrateur quand on le survole avec la souris*/
+.my-button-liste:hover{
+    -fx-background-color: #a28b07;
+    -fx-text-fill: white;
+}
+/**Bouton modification du compte*/
+.my-button-modif {
+    -fx-background-color: #145717;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -50%;
+    -fx-translate-y: -50%;
+    -fx-cursor: hand;
+    -fx-margin: 10px 20px; /* Add horizontal margin */
+}
+/**Bouton modification du compte quand on le survole avec la souris*/
+.my-button-modif:hover {
+    -fx-background-color: #0f4821;
+    -fx-text-fill: white;
+}
+/**Bouton supprimer du compte*/
+.my-button-supp {
+    -fx-background-color: #710404;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -50%;
+    -fx-translate-y: -50%;
+    -fx-cursor: hand;
+    -fx-margin: 10px 20px; /* Add horizontal margin */
+}
+/**Bouton supprimer du compte quand on le survole avec la souris*/
+.my-button-supp:hover {
+    -fx-background-color: #410000;
+    -fx-text-fill: white;
+}
+
+/**Bouton  deconnexion du compte*/
+.my-button-deco{
+    -fx-background-color: #4772a2;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px;
+    -fx-translate-x: -50%;
+    -fx-translate-y: -50%;
+    -fx-cursor: hand;
+    -fx-margin: 10px 20px; /* Add horizontal margin */
+}
+/**Bouton deconnexion du compte quand on le survole avec la souris*/
+.my-button-deco:hover{
+    -fx-background-color: #355274;
+    -fx-text-fill: white;
+}
+
+
+
+.nav-barre {
+    -fx-background-color: #8f8e8e00;
+    -fx-padding: 18px 80px;
+}
+
+.my-label-user-con{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.my-button-label {
+    -fx-background-color: #ffffff00;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.my-button-label:hover {
+    -fx-text-fill: #4772a2;
+}
+
+.table-view {
+    -fx-background-color: #74747434;
+    -fx-background-radius: 15px;
+}
+
+.table-view .column-header {
+    -fx-background-color: #e2e2e200;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #4772a2;
+    -fx-background-radius: 15px;
+}
+
+.table-view .column-header:hover {
+    -fx-background-color: #355274;
+    -fx-background-radius: 15px;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.table-view .table-cell-background {
+    -fx-background-color: #74747434;
+    -fx-border-radius: 15px;
+}
+
+.table-view .table-row-cell {
+    -fx-background-color: #8b8b8b00;
+    -fx-border-radius: 10px;
+}
+
+.table-view .table-cell {
+    -fx-border-color: #8f8e8e48;
+    -fx-background-color: #8b8b8b00;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.table-view .scroll-bar {
+    -fx-background-color: #8b8b8b00;
+}
+
+.table-view .scroll-bar .thumb {
+    -fx-background-color: #888;
+    -fx-background-radius: 10px;
+}
+
+.table-view .scroll-bar .track {
+    -fx-background-color: #555;
+    -fx-background-radius: 10px;
+}
+
+
+.table-view .scroll-bar .increment-button,
+.table-view .scroll-bar .decrement-button {
+    -fx-background-color: #666;
+}
+
+.table-view .table-cell:selected {
+    -fx-background-color: #1f6892;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
